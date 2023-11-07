@@ -1,8 +1,5 @@
 # innovation square project
 
-# Simple to Create NFT Wallet
-Configuration based NFT Wallet  React Component with all wallet connections for your NFT
-
 ## Installation
 
 ``` npm install --save nft-wallet ```
