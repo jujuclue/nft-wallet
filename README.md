@@ -1,4 +1,6 @@
-# Simple to Create NFT Wallet
+# innovation square nft wallet project
+
+# Simple to Create innNFT Wallet
 Configuration based NFT Wallet  React Component with all wallet connections for your NFT
 
 ## Installation
